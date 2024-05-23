@@ -1,8 +1,11 @@
 # trick6-todoList
+
 - [Demo Project](https://nasim1380p.github.io/trick6-todoList/) 👩‍💻
 
+
   
-![navbar-p](https://github.com/Nasim1380p/trick5-navbar/assets/155636802/90f6de9c-6c32-4144-bdf7-964c49b45fea)
+![todo](https://github.com/Nasim1380p/trick6-todoList/assets/155636802/ea873eaf-79ae-4785-9d50-b00868773a93)
+
 
 
 - 👩‍🎓 Developed by nasim pirghollo
